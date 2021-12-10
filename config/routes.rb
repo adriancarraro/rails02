@@ -4,4 +4,7 @@ Rails.application.routes.draw do
 
   get '/home/index'
   get '/home/chi_siamo'
+  get '/home/prodotti'
+  get '/home/servizi'
+  get '/home/contatti'
 end
